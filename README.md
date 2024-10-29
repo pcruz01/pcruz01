@@ -70,4 +70,4 @@ My journey in Information Systems has ignited a strong passion for cybersecurity
 -->
 
 ## Projects
-- 
+- SOC Automation Project
