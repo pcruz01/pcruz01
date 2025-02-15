@@ -6,7 +6,7 @@ I am currently a Master of Information Systems student with a profound interest 
 
 ## Objective
 
-My journey in Information Systems has ignited a strong passion for cybersecurity and programming, particularly in the realms of penetration testing, security engineering, security analysis, web dev, and data analysis. I am committed to building my skills in these areas and am excited to transition into hands-on roles that allow me to contribute to robust, proactive security solutions.
+My journey in Information Systems has ignited a strong passion for cybersecurity and programming, especially in the realms of penetration testing and security analysis, but also security engineering, web dev, and data analysis. I am committed to building my skills in these areas and am excited to transition into hands-on roles that allow me to contribute to robust, proactive security solutions.
 <!--
 ## Skills
 
